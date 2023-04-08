@@ -3,7 +3,7 @@ version: '3'
 services:
   nodejs:
     #fill out the configuration here
-    image: website
+    image: nodejs
     networks:
       - app-network
   
