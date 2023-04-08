@@ -14,4 +14,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-              git clone
+              git clone git@github.com:iiloni-umd/cmsc389T-project-5.git
