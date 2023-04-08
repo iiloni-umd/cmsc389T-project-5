@@ -10,11 +10,11 @@ FROM node:10-alpine
 RUN mkdir -p /home/node/app && chown -R node:node /home/node/app
 WORKDIR /home/node/app
 
-Copy package.json ./
+COPY package.json ./
 
 USER node
 
-run npm install
+RUN npm install
 
 copy --chown=node:node
 CMD ["node", "app.js"]
