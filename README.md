@@ -1,4 +1,5 @@
-## Terpconnect Site Link: https://terpconnect.umd.edu/~iiloni/cmsc389T-project-5/ 
+## GitHub Pages Site Link: https://iiloni-umd.github.io/cmsc389T-project-5/
+## TerpConnect Site Link: https://terpconnect.umd.edu/~iiloni/cmsc389T-project-5/ 
 
 ## Changes Made
  - Changed the general color scheme to include more red. 
