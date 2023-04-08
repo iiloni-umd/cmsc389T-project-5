@@ -1,15 +1,6 @@
-# cmsc388T-web-template
+## Terpconnect Site Link:  
 
-## Color Family
-Light yellow: #FAF8D4
-
-Almond: #EBDCCB
-
-Dun: #C3BAAA
-
-Taupe Gray: #91818A
-
-Rose quartz: #B2A3B5
-
-## CSS
-.img -> where you can adjust image size
+## Changes Made
+ - Changed the general color scheme to include more red. 
+ - Changed the font family
+ - Changed the styling of some individual elements (such as the rounding of the profile picture)

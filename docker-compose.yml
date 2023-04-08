@@ -3,6 +3,7 @@ version: '3'
 services:
   nodejs:
     #fill out the configuration here
+    image: website
     networks:
       - app-network
   
@@ -28,7 +29,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /absolute/path/to/web/template/folder
+      device: \Users\itaic\OneDrive - University of Maryland\CMSC389T\Workspace\Project-5\cmsc389T-project-5
       o: bind
 
 networks:
