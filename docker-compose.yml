@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nodejs
+    image: node-10:alpine
     container_name: nodejs
     restart: unless-stopped
     networks:
