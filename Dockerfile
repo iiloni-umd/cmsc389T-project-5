@@ -16,5 +16,5 @@ USER node
 
 RUN npm install
 
-copy --chown=node:node
+COPY --chown=node:node
 CMD ["node", "app.js"]
